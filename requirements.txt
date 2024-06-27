@@ -1,2 +1,2 @@
 urbanaccess==0.2.2
-networkx==2.8
+networkx==2.8.6
